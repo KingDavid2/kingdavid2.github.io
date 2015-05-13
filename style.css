@@ -1,0 +1,67 @@
+.box{
+
+	width: 50%;
+	height: 70%;
+	float: left;
+	border: solid 2px;
+	margin: 10px;
+}
+.parrafo{
+	display: inline;
+	font-size: 2vw;
+	margin: 10px;
+}
+
+
+
+.mini{
+	width: 100px;
+	float: left;
+}
+
+.left{
+
+	float: left;
+	width: 200px;
+	padding: 10px;
+}
+
+section{
+
+	border: solid 2px;
+	overflow: auto;
+}
+
+.clear{
+	clear: left;
+}
+
+
+
+
+
+
+
+
+
+.nav{
+	width: 100px;
+	float: left;
+}
+
+li{
+	list-style-type: none;
+
+	margin: 15px 15px;
+}
+
+.contenido{
+	width: 300px;
+	float: left;
+}
+a{
+	background-color: #ccc;
+}
+a:hover{
+ background-color: #00ff00;
+}
